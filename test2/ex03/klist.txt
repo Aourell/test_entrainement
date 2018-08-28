@@ -1,0 +1,5 @@
+redentials cache: API:6A4F09FF-1587-41C3-8263-1CF1CA99EF5E
+        Principal: fcara@42.FR
+
+		  Issued                Expires               Principal
+		  Aug 27 16:17:00 2018  Sep  3 16:16:34 2018  krbtgt/42.FR@42.FR
