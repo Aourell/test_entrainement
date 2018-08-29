@@ -1,0 +1,5 @@
+Credentials cache: API:31F297A2-F790-4459-A103-A59C2F45B265
+        Principal: thourdea@42.FR
+
+		  Issued                Expires             Flags    Principal
+		  Aug 27 16:08:34 2018  Sep  3 16:08:34 2018  FPRIA  krbtgt/42.FR@42.FR
